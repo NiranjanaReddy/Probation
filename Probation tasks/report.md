@@ -12,18 +12,22 @@ I designed a functional tensegrity structure in CAD software with precise dimens
 
 ---
 ## Computational Fluid Dynamics (CFD) Resource Article
- article link
+ [Report](https://docs.google.com/document/d/192QFbz3CnMR3P46qC3MYmyR9oZYGCJq2/edit)
+
  ---
 
  ## PERMISSION LETTER
  Requesting Permission to use the senate hall for conducting a workshop on Control Systems.
-  link
+ [Permission letter](https://drive.google.com/drive/u/1/my-drive)
+
 
 ---
 ## XFOIL DIRECT ANALYSIS
 I performed aerodynamic analysis on three different airfoils to identify the most suitable one for a Horizontal Take-Off and Landing (HTOL) aircraft. Using XFLR5/XFOIL, I compared their lift, drag, and moment characteristics at multiple Reynolds numbers. The study included evaluating drag polars, lift-to-drag ratios, and stall behavior to assess overall performance.Based on the results, the airfoil with the highest efficiency and smoother stall characteristics was selected as the best option for HTOL application.
-link
+[Report](https://docs.google.com/document/d/1VBB4w922ytHomtGFuSAT8n4LHZNlrIBp/edit)
+
 
 ## CFD video
+
 
 
