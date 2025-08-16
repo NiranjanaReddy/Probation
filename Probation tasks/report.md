@@ -8,6 +8,9 @@ I designed a functional tensegrity structure in CAD software with precise dimens
 ---
 ## COMPLIANT MECHANISM
 
+[Raw File Link (Screenshot 71)](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(71).png)
+
+[Raw File Link (Screenshot 72)](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(72).png)
 
 
 
@@ -29,6 +32,7 @@ I performed aerodynamic analysis on three different airfoils to identify the mos
 
 
 ## CFD video
+
 
 
 
