@@ -7,12 +7,34 @@ I designed a functional tensegrity structure in CAD software with precise dimens
 
 ---
 ## COMPLIANT MECHANISM
+TWEEZERS:
+ ![Screenshot 71](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(71).png)
 
- [![Screenshot 71](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(71).png)
+ ORTHO-SPIRAL
+ ![Screenshot 72](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(72).png)
 
- [![Screenshot 72](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(72).png)
+ Real World Applications
+ 
+ Compliant Tweezers
 
+Biomedical & Micro-manipulation → Used for handling delicate biological samples, cells, and tissues without causing damage.
 
+Electronics assembly → Useful in picking and placing tiny components on PCBs where high precision is required.
+
+Micro-electromechanical systems (MEMS) → Act as micro-grippers in microrobotics for precise assembly tasks.
+
+Everyday use → Adapted into cosmetic tweezers, medical forceps, and laboratory gripping tools.
+
+🔹 Ortho-planar Spring Structure
+
+Vibration isolation → Provides controlled out-of-plane flexibility, making it useful in aerospace and automotive systems.
+
+Precision instruments → Used in compliant joints for sensors, actuators, and optical devices where frictionless, repeatable motion is needed.
+
+Medical devices → Incorporated in surgical tools and implants requiring flexible, fatigue-resistant motion.
+
+Fabrication Plan:
+The designs were modeled in CAD, exported as STL files, and sliced for 3D printing using PLA for prototypes. Post-processing included support removal and surface finishing, followed by assembly and testing for functional performance.
 
 ---
 ## Computational Fluid Dynamics (CFD) Resource Article
@@ -32,6 +54,7 @@ I performed aerodynamic analysis on three different airfoils to identify the mos
 
 
 ## CFD video
+
 
 
 
