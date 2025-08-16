@@ -19,7 +19,7 @@ I designed a functional tensegrity structure in CAD software with precise dimens
 
  ## PERMISSION LETTER
  Requesting Permission to use the senate hall for conducting a workshop on Control Systems.
- [Permission letter](
+ [Permission letter](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/pl%20.png)
 
 
 ---
@@ -29,6 +29,7 @@ I performed aerodynamic analysis on three different airfoils to identify the mos
 
 
 ## CFD video
+
 
 
 
