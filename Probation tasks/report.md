@@ -13,9 +13,9 @@ TWEEZERS:
  ORTHO-SPIRAL
  ![Screenshot 72](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(72).png)
 
- Real World Applications
+### Real World Applications
  
- Compliant Tweezers
+ Compliant Tweezers:
 
 Biomedical & Micro-manipulation → Used for handling delicate biological samples, cells, and tissues without causing damage.
 
@@ -25,7 +25,7 @@ Micro-electromechanical systems (MEMS) → Act as micro-grippers in microrobotic
 
 Everyday use → Adapted into cosmetic tweezers, medical forceps, and laboratory gripping tools.
 
-🔹 Ortho-planar Spring Structure
+ Ortho-planar Spring Structure:
 
 Vibration isolation → Provides controlled out-of-plane flexibility, making it useful in aerospace and automotive systems.
 
@@ -54,6 +54,7 @@ I performed aerodynamic analysis on three different airfoils to identify the mos
 
 
 ## CFD video
+
 
 
 
