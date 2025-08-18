@@ -3,7 +3,9 @@
 
 I designed a functional tensegrity structure in CAD software with precise dimensioning to ensure stability and accuracy. The model was then prepared for fabrication by exporting the STL files and slicing them using **Creality software**, where print parameters such as infill, layer height, and supports were optimized. Using a Creality 3D printer, I successfully printed both the parts in PLA material. After printing, the components were cleaned, finished, and assembled with fishing line strings to achieve the floating effect of the tensegrity structure. The final assembly was tested for balance and strength to ensure proper load distribution.
 [![Project Screenshot](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(70).png)](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/Screenshot%20(70).png)
+![WhatsApp Image 21-16-20](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/WhatsApp%20Image%202025-08-18%20at%2021.16.20_d431e1d4.jpg)
 
+![WhatsApp Image 21-16-21](https://raw.githubusercontent.com/NiranjanaReddy/Probation/main/WhatsApp%20Image%202025-08-18%20at%2021.16.21_ff35703d.jpg)
 
 ---
 ## COMPLIANT MECHANISM
@@ -54,6 +56,7 @@ I performed aerodynamic analysis on three different airfoils to identify the mos
 
 
 ## CFD video
+
 
 
 
